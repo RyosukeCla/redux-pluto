@@ -137,7 +137,7 @@
     "@types/serve-favicon": "^2.2.30",
     "@types/styled-components": "^4.1.2",
     "@types/webpack": "^4.4.21",
-    "@types/webpack-env": "^1.13.8",
+    "@types/webpack-env": "^1.13.9",
     "@typescript-eslint/eslint-plugin": "^1.1.1",
     "@typescript-eslint/parser": "^1.1.1",
     "agreed": "^3.2.1",
